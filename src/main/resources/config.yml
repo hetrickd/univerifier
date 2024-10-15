@@ -1,0 +1,6 @@
+smtpHost: smtp-relay.gmail.com
+smtpPort: 587
+smtpAuthMechanisms: XOAUTH2
+fromEmail: no-reply@mountaineercraft.com
+domain: localhost
+requiredEmailDomain: gmail.com
